@@ -28,6 +28,7 @@ Classify vessels into four categories:
 
 ## GNN classification result
 > Accuracy: 83.56% <br>
+
 ![GNN classification result](images/GNN_Result.png)
 
 ## Tech Stack
